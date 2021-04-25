@@ -1,0 +1,36 @@
+.name {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  input.search_bar.form-control input[type="text"]  {
+    width: 60%;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+
+  
+  .box-admin {
+    /* position: absolute; */
+    top: 10%;
+    left: 5%;
+    z-index: 1000;
+    float: left;
+    width: 30%;
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 0 0;
+  }
+  
+  .search div {
+    color : black
+  }
+  .search-main div:hover {
+    color : blue
+  }

@@ -1,0 +1,22 @@
+.detail:hover {
+    color: #337ab7;
+    text-decoration: none !important;
+}
+.detail p {
+    color: black;
+    white-space: nowrap !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+.btn_cart:hover{
+    background-color:#ffab00;
+    border-color: #bfc7c7;
+    overflow: hidden;
+}
+.card > .detail_product >.detail :hover {
+    color:#337ab7 !important;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+};

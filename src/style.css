@@ -1,0 +1,104 @@
+
+ /* a {
+  text-decoration: none;
+  color: black;
+} */
+/* main.main a {
+  text-decoration: none;
+  color: black;
+} */
+
+/* main.main a {
+  text-decoration: none;
+  color: black;
+} */
+
+
+
+
+/* a.nav-link {
+  color: black;
+  white-space: nowrap;
+} */
+.body{
+  min-height: 345px;
+}
+.content {
+  padding-top: 155px;
+}
+.form_info {
+  background-color: #f3f3f3;
+}
+
+input#exampleInputEmail1 {
+  padding: 20px;
+  background-color: lightgray;
+}
+
+input#exampleInputPassword1 {
+  padding: 20px;
+  background-color: lightgray;
+}
+
+
+
+/* .carousel-inner > img {
+  max-height: 400px;
+}
+.carousel-indicators img {
+  max-width: 100px;
+}
+.carousel-inner > .item {
+  height: 400px;
+} */
+
+.top-content {
+  width: 100%;
+  padding: 0;
+}
+
+.top-content .carousel-control-prev {
+  border-bottom: 0;
+}
+
+.top-content .carousel-control-next {
+  border-bottom: 0;
+}
+
+.top-content .carousel-caption {
+  padding-bottom: 60px;
+}
+
+.top-content .carousel-caption h1 {
+  padding-top: 60px;
+  color: #fff;
+}
+
+.top-content .carousel-caption h3 {
+  color: #fff;
+}
+
+.top-content .carousel-caption .carousel-caption-description {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.top-content .carousel-indicators li {
+  width: 16px;
+  height: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+.err{
+  color:red ;
+}
+.fa-star{
+  color: #ffc107 !important;
+}
+.card-text {
+    white-space: nowrap !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}

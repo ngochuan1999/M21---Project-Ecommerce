@@ -1,0 +1,52 @@
+.ContactBody {
+    padding: 40px;
+  }
+  
+  .contact-container {
+    background-image: url(../../image/newsbanner.jpg) !important;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-info-title {
+    margin-top: 50px;
+    color: #888;
+    font-size: 18px;
+    width: 60%;
+  }
+  
+  .contact-info-detail {
+    margin-top: 40px;
+    width: 60%;
+  }
+  
+  .contact-icon {
+    font-size: 20px;
+    color: #888;
+    margin-right: 40px;
+    line-height: 100%;
+  }
+  
+  .contact-info-item {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .contact-info-title2 {
+    font-size: 14px !important;
+    text-transform: uppercase;
+    margin-right: 30px;
+    color: #888 !important;
+    font-weight: bold !important;
+    width: 80px;
+  }
+  
+  .contact-info-item p {
+    color: #111;
+    font-size: 14px;
+  }

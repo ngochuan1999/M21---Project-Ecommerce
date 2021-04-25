@@ -1,0 +1,136 @@
+.text-name a {
+  text-decoration: none;
+  color: black;
+}
+
+.shopping-cart a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #337ab7;
+}
+
+.show_menu a {
+  text-decoration: none;
+  color: black;
+}
+
+
+.d-flex.justify-content-around {
+    background-color: white;
+  }
+  
+  a.nav-link {
+    color: black !important;
+    white-space: nowrap;
+  }
+  header.row.navbar.fixed-top {
+    padding-top: 0px !important;
+  }
+  
+  .numberCart {
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+  
+  .dropdown-show:hover .show_menu {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 1000;
+    float: left;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 0 0;
+  }
+  .show_menu > .item :hover{
+  color: #337ab7 !important;
+  }
+  
+  .show_menu {
+    display: none;
+  }
+  
+  .dropdown-shop {
+  display: none;
+  }
+  
+  
+  .menu-item-category:hover .dropdown-shop {
+    display: block;
+    position: absolute;
+    top: 70%;
+    left: 0;
+    z-index: 1000;
+    float: left;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    /* padding: 0.5rem 0; */
+    margin: 0.125rem 0 0;
+    padding-left: 20px;
+  }
+  Link {
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .dropdown-menu {
+    padding: 10px;
+  }
+  .badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+  }
+  
+  .label-warning[href],
+  .badge-warning[href] {
+    background-color: #c67605;
+  }
+  #lblCartCount {
+      font-size: 12px;
+      background: #ffab00;
+      color: #fff;
+      padding: 0 5px;
+      vertical-align: top;
+      margin-left: -10px; 
+  }
+  /* header{
+    opacity: 0,9 !important;
+    filter: alpha(opacity=50);
+  } */
+
+ .fa-shopping-cart:hover {
+   color: #337ab7 !important;
+ }
+ .nav-link:hover{
+   color: #337ab7 !important;
+ }
